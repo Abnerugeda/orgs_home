@@ -42,11 +42,13 @@ const styles = StyleSheet.create({
         marginTop: 24,
         fontSize: 26,
         lineHeight: 42,
-        fontWeight: 'bold'
+        fontWeight: 'bold',
+        color: "#464646"
     },
     legenda:{
         fontSize: 16,
-        lineHeight: 16
+        lineHeight: 16,
+        color: '#A3A3A3'
     }
 })
 
