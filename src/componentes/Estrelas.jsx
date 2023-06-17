@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Image, StyleSheet, Text, View, TouchableOpacity } from 'react-native'
+import { StyleSheet, View } from 'react-native'
 import Estrela from './Estrela';
 
 export default function Estrelas({
